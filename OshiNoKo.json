@@ -3067,6 +3067,38 @@
         ]
       }
     },
+    "128": {
+      "title": "Lecture du script",
+      "volume": "13",
+      "last_updated": "1703960272",
+      "groups": {
+        "ScanR": "/proxy/api/imgur/chapter/Qt5Gcir"
+      }
+    },
+    "129": {
+      "title": "Pièce manquante",
+      "volume": "13",
+      "last_updated": "1703960382",
+      "groups": {
+        "ScanR": "/proxy/api/imgur/chapter/xitnDuv"
+      }
+    },
+    "130": {
+      "title": "Tactique de base",
+      "volume": "14",
+      "last_updated": "1703960484",
+      "groups": {
+        "Blue Solo": "/proxy/api/imgur/chapter/q8flZ5J"
+      }
+    },
+    "131": {
+      "title": "Rédemption",
+      "volume": "13",
+      "last_updated": "1703960598",
+      "groups": {
+        "Blue Solo": "/proxy/api/imgur/chapter/0ZUAIxu"
+      }
+    },
     "90.1": {
       "title": "Extra chapitre",
       "volume": "9",
