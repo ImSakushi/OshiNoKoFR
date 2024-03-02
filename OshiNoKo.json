@@ -3099,57 +3099,118 @@
     "129": {
       "title": "Pièce manquante",
       "volume": "13",
-      "last_updated": "1703960382",
+      "last_updated": "1709364856",
       "groups": {
-        "ScanR": "/proxy/api/imgur/chapter/xitnDuv"
+        "Blue Solo": [
+          "https://i.ibb.co/SvwvD5c/001.jpg",
+          "https://i.ibb.co/vcXLGLP/002.jpg",
+          "https://i.ibb.co/TYp8hpW/003.jpg",
+          "https://i.ibb.co/ncHWfnF/004.jpg",
+          "https://i.ibb.co/dWvF2G5/005.jpg",
+          "https://i.ibb.co/WVYcKnT/006.jpg",
+          "https://i.ibb.co/ZxSmSYp/007.jpg",
+          "https://i.ibb.co/H7BtLgg/008.jpg",
+          "https://i.ibb.co/x5HYwsH/009.jpg",
+          "https://i.ibb.co/qrBvNYJ/010.jpg",
+          "https://i.ibb.co/ZxGrtzh/011.jpg",
+          "https://i.ibb.co/C1sHT11/012.jpg",
+          "https://i.ibb.co/4YRMstk/013.jpg",
+          "https://i.ibb.co/Jp9NVxJ/014.jpg",
+          "https://i.ibb.co/n6TLMjG/015.jpg",
+          "https://i.ibb.co/jhCJNvL/016.jpg",
+          "https://i.ibb.co/cD3PsVh/017.jpg",
+          "https://i.ibb.co/16wdv4q/018.jpg",
+          "https://i.ibb.co/LRz3pbv/020.jpg"
+        ]
       }
     },
     "130": {
       "title": "Tactique de base",
-      "volume": "14",
-      "last_updated": "1703960484",
+      "volume": "13",
+      "last_updated": "1709367109",
       "groups": {
-        "Blue Solo": "/proxy/api/imgur/chapter/q8flZ5J"
+        "ScanR": [
+          "https://i.ibb.co/gj7ky3H/000.png",
+          "https://i.ibb.co/mtKBVcz/001.png",
+          "https://i.ibb.co/sgdqKf4/004.png",
+          "https://i.ibb.co/j38DqtC/005.png",
+          "https://i.ibb.co/QY19m2k/006.png",
+          "https://i.ibb.co/0cQ4KCb/007.png",
+          "https://i.ibb.co/VwyZhYF/008.png",
+          "https://i.ibb.co/gdbYg3P/009.png",
+          "https://i.ibb.co/YXVjX14/010.png",
+          "https://i.ibb.co/zrk2QbX/011.png",
+          "https://i.ibb.co/CpjKGZZ/012.png",
+          "https://i.ibb.co/HPK4PwV/013.png",
+          "https://i.ibb.co/3Bj9bNv/014.png",
+          "https://i.ibb.co/mqnVhJ7/015.png",
+          "https://i.ibb.co/gPSnRKM/016.png",
+          "https://i.ibb.co/k4bx8pQ/017.png",
+          "https://i.ibb.co/WD74y6r/018.png",
+          "https://i.ibb.co/qYyRKv5/019.png",
+          "https://i.ibb.co/jgRvH9X/020.png",
+          "https://i.ibb.co/mGZRNB1/021.png"
+        ]
       }
     },
     "131": {
       "title": "Rédemption",
       "volume": "14",
-      "last_updated": "1703960598",
+      "last_updated": "1709367238",
       "groups": {
-        "Blue Solo": "/proxy/api/imgur/chapter/0ZUAIxu"
+        "ScanR": [
+          "https://i.ibb.co/MDQbKJT/000.png",
+          "https://i.ibb.co/p2gPrTy/001.png",
+          "https://i.ibb.co/0jGYsvV/004.png",
+          "https://i.ibb.co/cc9SBcG/005.png",
+          "https://i.ibb.co/hMcKMzd/006.png",
+          "https://i.ibb.co/1THtRSr/007.png",
+          "https://i.ibb.co/L59pNVk/008.png",
+          "https://i.ibb.co/yX0mQpX/009.png",
+          "https://i.ibb.co/qCZ9b6C/010.png",
+          "https://i.ibb.co/02dFN4c/011.png",
+          "https://i.ibb.co/BTc4LvD/012.png",
+          "https://i.ibb.co/FKg3Zrr/013.png",
+          "https://i.ibb.co/hF4GKkK/014.png",
+          "https://i.ibb.co/7VJ9BvX/015.png",
+          "https://i.ibb.co/54XLty1/016.png",
+          "https://i.ibb.co/NmSyyC5/017.png",
+          "https://i.ibb.co/Jd6SxGD/018.png",
+          "https://i.ibb.co/S5Q28h8/019.png",
+          "https://i.ibb.co/mqMMdXr/020.png",
+          "https://i.ibb.co/phn3SKp/021.png",
+          "https://i.ibb.co/mGZRNB1/021.png"
+        ]
       }
     },
     "132": {
-      "title": "Nino",
+      "title": "132",
       "volume": "14",
-      "last_updated": "1703960689",
+      "last_updated": "1709367324",
       "groups": {
-        "Blue Solo": "/proxy/api/imgur/chapter/81PCvCd"
-      }
-    },
-    "133": {
-      "title": "Jeu",
-      "volume": "14",
-      "last_updated": "1703960754",
-      "groups": {
-        "Blue Solo": "/proxy/api/imgur/chapter/oMvzK7k"
-      }
-    },
-    "134": {
-      "title": "Au plus profond de soi",
-      "volume": "14",
-      "last_updated": "1703960820",
-      "groups": {
-        "Blue Solo": "/proxy/api/imgur/chapter/8igVGft"
-      }
-    },
-    "135": {
-      "title": "135",
-      "volume": "14",
-      "last_updated": "1703960872",
-      "groups": {
-        "Blue Solo": "/proxy/api/imgur/chapter/8Ayeq14"
+        "ScanR": [
+          "https://i.ibb.co/BKyfXzq/000.png",
+          "https://i.ibb.co/rM8Lx2M/001.png",
+          "https://i.ibb.co/0rFWhf3/002.png",
+          "https://i.ibb.co/rHY6zxG/005.png",
+          "https://i.ibb.co/LSw9rJC/006.png",
+          "https://i.ibb.co/qYn51X2/007.png",
+          "https://i.ibb.co/YWbNPgV/008.png",
+          "https://i.ibb.co/FKRmLxG/009.png",
+          "https://i.ibb.co/c3DTwR7/010.png",
+          "https://i.ibb.co/4MxMydY/011.png",
+          "https://i.ibb.co/3Nss7CH/012.png",
+          "https://i.ibb.co/wNB7mP0/013.png",
+          "https://i.ibb.co/dK3vNJz/014.png",
+          "https://i.ibb.co/1MdpN0r/015.png",
+          "https://i.ibb.co/bJwGvXF/016.png",
+          "https://i.ibb.co/HzTk93d/017.png",
+          "https://i.ibb.co/PgdqtmW/018.png",
+          "https://i.ibb.co/kD2rwnz/019.png",
+          "https://i.ibb.co/CQ08CWV/020.png",
+          "https://i.ibb.co/bzcXJht/021.png",
+          "https://i.ibb.co/mGZRNB1/021.png"
+        ]
       }
     },
     "90.1": {
